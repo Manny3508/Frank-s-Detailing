@@ -1,0 +1,151 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color:black;
+}
+
+.title{
+  font-size:40px;
+  color:white;
+  float:left;
+}
+
+
+nav{
+text-align:center;
+list-style-type:none;
+
+
+}
+
+Nav li{
+display:inline-block;
+margin:40px;
+}
+
+nav li a{
+color:white;
+float:right;
+font-size:25px;
+margin-top:25px;
+}
+
+nav li a:hover{
+  color:gold;
+  text-decoration:none;
+}
+
+ .carousel-item{
+  height: 650px;
+  background-color: #000;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  Margin-bottom:100px
+}
+
+.Beginningtext{
+  margin-top:50px;
+  margin-bottom:50px;
+
+}
+
+.slogan{
+  font-size:60px;
+  text-align:center;
+  color:gold
+  
+}
+
+.underslogan{
+  font-size:30px;
+  text-align:center;
+  color:white
+}
+
+
+
+.quote{
+  font-size:60px;
+  text-align:center;
+  color:white;
+  background-color:#2E2E2E;
+}
+
+.contactbutton{
+  top:50%;
+  background-color:white;
+  color: black;
+  border:none; 
+  border-radius:10px; 
+  padding:15px;
+  min-height:30px; 
+  min-width: 120px;
+  font-size:25px;
+  text-align:center;
+  transform: translatey(-50%);
+  
+}
+
+.button{
+  text-align:center;
+  margin-top:50px;
+  
+}
+
+footer{
+  margin-bottom:30px;
+}
+
+.contactus{
+  text-align:center;
+  list-style-type:none;
+  text-decoration:none;
+
+}
+
+.contactus li a{
+  text-decoration:none;
+  color:white;
+}
+
+
+.links{
+  list-style-type:none;
+  font-size:30px;
+  color:gold;
+}
+
+.services{
+  color:white;
+  text-align:center;
+  list-style-type:none;
+}
+
+.services1{
+  list-style-type:none;
+  font-size:30px;
+  color:gold;
+}
+
+.freequote{
+  color:white;
+  text-align:center;
+  font-size:25px;
+}
+
+.freequotequote{
+  font-size:30px;
+  color:gold;
+}
+
+#button{
+  color:white;
+  border:2px solid white;
+  margin-top:30px;
+  width:50%;
+}
+
+#button:hover{
+  background-color:grey;
+  color:white;
+}
